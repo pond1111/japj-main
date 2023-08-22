@@ -1,0 +1,13 @@
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+.container{
+    margin-top: 100px;
+}
+.card{
+    margin: 0px;
+}
+
+.modal.fade .modal-dialog {
+    transition: transform 0.3s ease-in-out !important;
+    transform: scale(1) ;
+  }
